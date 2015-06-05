@@ -17,3 +17,8 @@ Links.
 Please see https://github.com/Bryce-Summers/Randomized_Acyclic_Connected_Sub_Graphs for a project using much more serious and complicated versions of the Union-Find Structure based maze generation algorithm.
 
 Please see https://flic.kr/p/qHJWaz for an example of a poster that I have created using this project.
+
+Comments
+---
+
+If I were going to reimplement this project, then I would likely take the time to properly abstract the functionality of a 2 Dimensional Lattice based grid, because such constructs are very useful in many, many projects.
