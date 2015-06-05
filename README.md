@@ -3,6 +3,7 @@ TravelWorld
 
 A World Building endeavor.
 
+![alt text](https://github.com/Bryce-Summers/TravelWorld/blob/master/Documentation%20and%20Screenshots/Random%20World.png "Example Output Maze from a 2d Lattice")
 
 I worked on this project as an Independant Study project with Golan Levin at Carnegie Mellon University in 2014.
 
