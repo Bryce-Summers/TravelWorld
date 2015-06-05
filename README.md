@@ -16,6 +16,8 @@ Links.
 
 Please see https://github.com/Bryce-Summers/Randomized_Acyclic_Connected_Sub_Graphs for a project using much more serious and complicated versions of the Union-Find Structure based maze generation algorithm.
 
+Please see https://github.com/Bryce-Summers/Randomized_Acyclic_Connected_Sub_Graphs/blob/master/Mazes/Final%20Writeup/writeup.pdf for a detailed description of Union-Find structure based maze generation.
+
 Please see https://flic.kr/p/qHJWaz for an example of a poster that I have created using this project.
 
 Comments
