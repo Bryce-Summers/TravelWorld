@@ -20,6 +20,8 @@ Please see https://github.com/Bryce-Summers/Randomized_Acyclic_Connected_Sub_Gra
 
 Please see https://flic.kr/p/qHJWaz for an example of a poster that I have created using this project.
 
+Please see https://www.youtube.com/watch?v=bIOPSbGBZYY for an example video demonstration of the program.
+
 Comments
 ---
 
