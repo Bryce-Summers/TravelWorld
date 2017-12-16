@@ -9,7 +9,7 @@ I worked on this project as an Independant Study project with Golan Levin at Car
 
 This project is an interactive program that allows the user to travel around a world, wilst discovering lights and elevators.
 
-The work done in this project was later used to produce some large scale maze posters and it was the first time that I implemented my favorite Union-Find based maze genration algorithm.
+The work done in this project was later used to produce some large scale maze posters and it was the first time that I implemented my favorite Union-Find based maze generation algorithm.
 
 Links.
 ------
